@@ -47,7 +47,7 @@ This project fetches financial data from Yahoo Finance and stores it in a MongoD
 ## Usage
 To run the application, execute the following command:
 ```bash
-python run.py
+python main.py
 ```
 
 This will extract tickers from the specified CSV file, fetch the corresponding financial data from Yahoo Finance, and store it in the MongoDB database.
