@@ -1,3 +1,4 @@
-yfinance
 pymongo
+yfinance
 pandas
+python-dotenv
